@@ -26,10 +26,12 @@ I'm an IT professional with a background in Computer Science and Engineering and
 ### 🌱 Currently Learning
 Network Security, Applied Cryptography, Privacy Engineering, and Secure System Design.
 
-### 🤝 Connect With Me
--LinkedIn: Haymanot Alamirew
+### 🤝 Let's Connect
 
--GitHub: You're already here! 😊
+I'm always happy to connect with fellow cybersecurity enthusiasts, IT professionals, and people passionate about information security and privacy.
+
+- **LinkedIn:** [Haymanot Alamirew](https://www.linkedin.com/in/haymanot-alamirew/)
+- **GitHub:** You're already here! 😊
 
 *Always learning, exploring, and building towards a safer digital world.*
 
