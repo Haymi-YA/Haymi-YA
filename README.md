@@ -1,41 +1,37 @@
 # Hi, I'm Haymanot Alamirew 👋
 
-### Cybersecurity Enthusiast | Information Security & Privacy Graduate Student | IT Professional
+🔐 **Cybersecurity Enthusiast | Information Security & Privacy Graduate Student | IT Professional**
 
-I'm an IT professional with a background in Computer Science and Engineering and over three years of experience in ICT support and network infrastructure management. I'm currently pursuing a **Master of Information Security and Privacy (MISP) at the University of Calgary**, building on my technical foundation to deepen my knowledge of cybersecurity, information protection, and digital privacy.
+I'm an IT professional with a background in Computer Science and Engineering and over 3 years of experience in ICT support and network infrastructure. Currently pursuing a **Master of Information Security and Privacy at the University of Calgary**, I'm building practical cybersecurity skills through hands-on labs, research, and technical projects.
 
-I'm passionate about understanding how systems work, identifying security vulnerabilities, analyzing threats, and finding practical ways to make the digital world safer.
-
-### 🔐 Areas of Interest
-- Network Security and Traffic Analysis
-- Cyber Threat Detection and Incident Response
-- Digital Forensics and Security Investigations
-- Information Security and Risk Management
-- Privacy Engineering and Data Protection
-- Security Awareness and Social Engineering
-
-### 🛠️ Technical Skills & Tools
+### 🛠️ Technical Skills
 - **Security:** Wireshark, Microsoft Defender, SIEM fundamentals
-- **Networking:** TCP/IP, DNS, routers, switches, network troubleshooting
-- **Programming & Scripting:** Python, SQL, PowerShell, KQL
-- **Operating Systems:** Windows, Linux, macOS
-- **Other:** Vulnerability Assessment, Access Control, Security Awareness Training
+- **Networking:** TCP/IP, DNS, Network Troubleshooting
+- **Programming:** Python, SQL, PowerShell, KQL
+- **Systems:** Windows, Linux, macOS
 
-### 📂 What You'll Find Here
-This GitHub profile documents my cybersecurity learning journey through:
-- Hands-on cybersecurity labs and practical exercises
-- Network traffic analysis and Wireshark investigations
-- Python scripting for security automation and log analysis
-- Security research, technical write-ups, and learning notes
-- Cybersecurity awareness and educational projects
+### 🔍 Areas of Interest
+- Network Security & Traffic Analysis
+- Threat Detection & Incident Response
+- Digital Forensics
+- Information Security & Privacy
+- Security Risk Management
+
+### 📂 Featured Projects
+- DNS Traffic Analysis – Wireshark investigations
+- Network Security – Packet analysis and protocol investigation
+- Python for Cybersecurity – Scripting and log analysis
+- Phishing Awareness – Social engineering educational project
 
 ### 🌱 Currently Learning
-Exploring network security, applied cryptography, secure system design, privacy, and practical cybersecurity investigation techniques.
+Network Security, Applied Cryptography, Privacy Engineering, and Secure System Design.
 
-### 🎯 My Goal
-To grow into a cybersecurity professional who contributes to building secure, resilient, and privacy-conscious digital environments.
+### 🤝 Connect With Me
+-LinkedIn: Haymanot Alamirew
 
-**Always learning. Always exploring. Building a safer digital world, one project at a time.**
+-GitHub: You're already here! 😊
+
+*Always learning, exploring, and building towards a safer digital world.*
 
 <!--
 **Haymi-YA/Haymi-YA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
